@@ -1,0 +1,8 @@
+name: KriCraft
+version: 1.0
+main: cz.kricraft.ic2.Main
+softdepend: [LWC, WorldGuard]
+authors: [Roman3349, FrostBiteCZ]
+commands:
+    cic2:
+        description: 'CraftujIC2 Commands'
